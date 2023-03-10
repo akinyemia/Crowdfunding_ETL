@@ -16,12 +16,14 @@ o	Create the Crowdfunding Database
     o	The following image shows this category DataFrame:
 2.	Export the category DataFrame as category.csv and save it to your GitHub repository.
 3.	Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
+    
     o	A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
     o	A "subcategory" column that contains only the subcategory titles
     o	The following image shows this subcategory DataFrame:
 4.	Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 ## Create the Campaign DataFrame
 1.	Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame has the following columns:
+    
     o	The "cf_id" column
     o	The "contact_id" column
     o	The "company_name" column
